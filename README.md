@@ -1,5 +1,6 @@
 # **A Visual History of Nobel Prize Winners**
 ![Nobel Prize logo](https://upload.wikimedia.org/wikipedia/en/e/ed/Nobel_Prize.png?20131011153104)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alaimii/mini-project-/main?labpath=notebook.ipynb)
 
 This repository includes the fourth project under Data Scientist with Python career track from [DataCamp](https://www.datacamp.com/tracks/data-scientist-with-python), which entails data manipulation and visualization skills to explore patterns and trends over 100 years worth of Nobel Prize winners.
 
